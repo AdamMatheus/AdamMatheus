@@ -51,7 +51,7 @@
 - 🌱 I'm currently learning Everything; 
 - 👯 I'm looking to collaborate.... ;
 - 🤔 I'm looking for help with statistics ;
-- 💬 Ask me about: Python,javascript and Web development;
+- 💬 Ask me about: Python,Javascript,React and Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
 - 📫 How to reach me: adam.matheus.it@gmail.com
 

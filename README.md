@@ -47,7 +47,7 @@
  
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I have completed Frontend Development courese in 4 months and I'm currently studying on  Backend Development;
+- 👨🏽‍💻 I have completed Fullstack Development courese and I'm currently studying on Next.js;
 - 🌱 I'm currently learning Everything; 
 - 👯 I'm looking to collaborate.... ;
 - 🤔 I'm looking for help with statistics ;

@@ -43,17 +43,18 @@
 <br>
 <br>
 
- I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Python,Django, MySQL, PostgreSQL React, Javascript, DevOps,Html&CSS ,Bootstrap etc.
+ I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Development. Some technology I enjoy working  with include Python,Django, MySQL, PostgreSQL React, Javascript,NextJs,Ant Design DevOps,Html&CSS ,Bootstrap etc.
  
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I have completed Fullstack Development courese and I'm currently studying on Next.js;
+- 👨🏽‍💻 I have completed Fullstack Development courese and I'm currently studying on Cypress and Typescript.js;
 - 🌱 I'm currently learning Everything; 
 - 👯 I'm looking to collaborate.... ;
 - 🤔 I'm looking for help with statistics ;
-- 💬 Ask me about: Python,Javascript,React and Web development;
+- 💬 Ask me about: Python,Javascript,React , Nextjs ,Ant Design and Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
 - 📫 How to reach me: adam.matheus.it@gmail.com
+-  https://www.linkedin.com/in/halil-alaka-5984b9221/
 
  
 <br />
